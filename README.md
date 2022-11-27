@@ -17,9 +17,11 @@ Created by <a href="">Next Tech Lab</a>.
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
     <img src="https://img.shields.io/badge/author-Next%20Tech%20Lab-blue" alt="author Next Tech Lab"/>
 </p>
+
 ## Next Tech Lab
 
-![image](https://user-images.githubusercontent.com/91051053/204151550-71d5d080-024a-4737-8d36-d4bdb52c1425.png)
+
+<img align="center" src="https://user-images.githubusercontent.com/91051053/204151550-71d5d080-024a-4737-8d36-d4bdb52c1425.png"></img>
 
 ## License
 
