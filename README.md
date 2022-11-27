@@ -30,8 +30,8 @@ Please read `Contributing.md` for details on our code of conduct, and the proces
 ## Shout outs
 The product is build by the following member(s):
 
-| <p align="center">![Divyanshu Yadav](https://github.com/divyanshu1810.png?size=128)<br>[Divyanshu Yadav](https://github.com/divyanshu1810)</p> | 
-| ---------------------------------------------------------------------------------------------------------------------------------- | 
+| <p align="center">![Abhijeet Jha](https://github.com/abhijeetjha602.png?size=128)<br>[Abhijeet Jha](https://github.com/abhijeetjha602)</p> | <p align="center">![Lakshya Dhariwal](https://github.com/lakshya-dhariwal.png?size=128)<br>[Lakshya Dhariwal](https://github.com/lakshya-dhariwal)</p> | <p align="center">![Divyanshu Yadav](https://github.com/divyanshu1810.png?size=128)<br>[Divyanshu Yadav](https://github.com/divyanshu1810)</p> | 
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | 
 ## Forking this repo 🚨
 
 Many people have contacted us asking if they can use this code for their own websites. The answer to that question is usually "yes", with attribution. There are some cases, such as using this code for a business or something that is greater than a personal project, that we may be less comfortable saying yes to. If in doubt, please don't hesitate to ask us.
