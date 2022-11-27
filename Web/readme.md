@@ -7,4 +7,5 @@
 * [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Media Queries](https://web.dev/learn/design/media-queries/)
 ## Courses:
+## Project Ideas:
 ## Documentations:
