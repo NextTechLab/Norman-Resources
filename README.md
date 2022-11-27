@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Next Tech lab Logo" src="public/logo.png" height="56" />
+  <img alt="Next Tech lab Logo" src="Public/logo.png" height="56" />
 </div>
 <div align="center">
   <h2>Resources - Norman Lab</h2>
