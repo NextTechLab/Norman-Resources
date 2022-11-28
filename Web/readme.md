@@ -16,3 +16,10 @@
 * [Building App Clones with ReactJS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP)
 ## Documentations:
 ## Roadmap:
+* [Front-end Developer](https://roadmap.sh/frontend)
+* [Back-end Developer](https://roadmap.sh/backend)
+* [JavaScript Developer](https://roadmap.sh/javascript)
+* [React Developer](https://roadmap.sh/react)
+* [Vue Developer](https://roadmap.sh/vue)
+* [Angular Developer](https://roadmap.sh/angular)
+* [NodeJs Developer](https://roadmap.sh/nodejs) 
