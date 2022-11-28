@@ -12,6 +12,7 @@
 * [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Media Queries](https://web.dev/learn/design/media-queries/)
 ## Courses:
+* [Academind Courses on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=academind)
 ## Project Ideas:
 * [Building App Clones with ReactJS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP)
 ## Documentations:
