@@ -15,6 +15,12 @@
 ## Project Ideas:
 * [Building App Clones with ReactJS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP)
 ## Documentations:
+* [ReactJS](https://reactjs.org/docs/getting-started.html)
+* [NextJS](https://nextjs.org/docs/getting-started)
+* [RemixJS](https://remix.run/docs/en/v1)
+* [Tailwind CSS](https://tailwindcss.com/docs/installation)
+* [TypeScript](https://www.typescriptlang.org/docs/)
+* [Framer Motion](https://www.framer.com/docs/)
 ## Roadmap:
 * [Front-end Developer](https://roadmap.sh/frontend)
 * [Back-end Developer](https://roadmap.sh/backend)
