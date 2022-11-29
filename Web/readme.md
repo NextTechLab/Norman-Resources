@@ -3,7 +3,7 @@
 ![Web Banner](https://user-images.githubusercontent.com/91051053/204152199-cd6e6bbe-5d81-4e7e-b21f-398b0060e8d4.png)
 
 ## Youtube Channels:
-<img align="right" height="160px" src="https://media.tenor.com/tYIUpIiF-LIAAAAC/youtube-logo.gif" alt="GIF"></img>
+<!-- <img align="right" height="160px" src="https://media.tenor.com/tYIUpIiF-LIAAAAC/youtube-logo.gif" alt="GIF"></img> -->
 * [Kevil Powel](https://www.youtube.com/watch?v=LGQuIIv2RVA&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
 * [Free Code Camp](https://www.youtube.com/c/freecodecamp/videos)
 * [Sonny Sangha](https://www.youtube.com/@SonnySangha)
@@ -20,7 +20,7 @@
 <!-- <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img> -->
 * [Building App Clones with ReactJS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP)
 ## Documentations:
-<img align="right" height="160px" src="https://media.tenor.com/Z1SlMF7RRaEAAAAd/cites-convention-on-international-trade-in-endangered-species.gif" alt="GIF"></img>
+<!-- <img align="right" height="160px" src="https://media.tenor.com/Z1SlMF7RRaEAAAAd/cites-convention-on-international-trade-in-endangered-species.gif" alt="GIF"></img> -->
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
 * [NextJS](https://nextjs.org/docs/getting-started)
 * [RemixJS](https://remix.run/docs/en/v1)
