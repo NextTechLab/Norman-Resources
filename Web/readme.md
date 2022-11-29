@@ -25,6 +25,7 @@
 ## Roadmap:
 
 <div align="right" class="tenor-gif-embed" data-postid="13818128" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/explore-map-trail-compass-colorful-gif-13818128">Explore Map Sticker</a>from <a href="https://tenor.com/search/explore-stickers">Explore Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 * [Front-end Developer](https://roadmap.sh/frontend)
 * [Back-end Developer](https://roadmap.sh/backend)
 * [JavaScript Developer](https://roadmap.sh/javascript)
