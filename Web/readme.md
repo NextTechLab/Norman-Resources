@@ -27,7 +27,7 @@
 * [Tailwind CSS](https://tailwindcss.com/docs/installation)
 * [TypeScript](https://www.typescriptlang.org/docs/)
 * [Framer Motion](https://www.framer.com/docs/)
-## Roadmap:
+## Roadmaps:
 <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img>
 * [Front-end Developer](https://roadmap.sh/frontend)
 * [Back-end Developer](https://roadmap.sh/backend)
