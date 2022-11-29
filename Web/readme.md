@@ -23,6 +23,7 @@
 * [TypeScript](https://www.typescriptlang.org/docs/)
 * [Framer Motion](https://www.framer.com/docs/)
 ## Roadmap:
+<img align="right" src="" alt="GIF"></img>
 * [Front-end Developer](https://roadmap.sh/frontend)
 * [Back-end Developer](https://roadmap.sh/backend)
 * [JavaScript Developer](https://roadmap.sh/javascript)
