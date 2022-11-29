@@ -9,18 +9,18 @@
 * [Sonny Sangha](https://www.youtube.com/@SonnySangha)
 * [Clever Programmer](https://www.youtube.com/@CleverProgrammer)
 ## Blogs and Articles:
-<img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img>
+<!-- <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img> -->
 * [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Media Queries](https://web.dev/learn/design/media-queries/)
 ## Courses:
-<img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img>
+<!-- <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img> -->
 * [Academind Courses on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=academind)
 ## Project Ideas:
-<img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img>
+<!-- <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img> -->
 * [Building App Clones with ReactJS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP)
 ## Documentations:
-<img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img>
+<img align="right" height="160px" src="https://media.tenor.com/Z1SlMF7RRaEAAAAd/cites-convention-on-international-trade-in-endangered-species.gif" alt="GIF"></img>
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
 * [NextJS](https://nextjs.org/docs/getting-started)
 * [RemixJS](https://remix.run/docs/en/v1)
