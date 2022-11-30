@@ -16,6 +16,7 @@
 * [Academind Courses on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=academind)
 
 ## Project Ideas:
+* [React Native Apps](https://reactnative.dev/docs/getting-started)
 
 ## Documentations:
 * [Flutter](https://docs.flutter.dev/)
