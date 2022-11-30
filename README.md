@@ -24,9 +24,14 @@ Created by <a href="">Next Tech Lab</a>.
 <img align="center" src="https://user-images.githubusercontent.com/91051053/204151550-71d5d080-024a-4737-8d36-d4bdb52c1425.png"></img>
 </p>
 
+## Norman-Resources
+* [Web Development](https://github.com/NextTechLab/Norman-Resources/tree/main/Web)
+* [App Development](https://github.com/NextTechLab/Norman-Resources/tree/main/App)
+* [UIUX](https://github.com/NextTechLab/Norman-Resources/tree/main/Ui-Ux)
+
 ## License
 
-`Norman - Resources` is available under the MIT license. See the LICENSE file for more info.
+`Norman-Resources` is available under the MIT license. See the LICENSE file for more info.
 
 
 ## Contributing
