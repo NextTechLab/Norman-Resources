@@ -18,6 +18,9 @@
 ## Project Ideas:
 
 ## Documentations:
+* [Flutter](https://docs.flutter.dev/)
+* [Develop Android Apps with Kotlin](https://developer.android.com/docs)
+* [React Native](https://reactnative.dev/docs/getting-started)
 
 
 ## Roadmaps:
