@@ -6,7 +6,7 @@
 <!-- <img align="right" height="160px" src="https://media.tenor.com/tYIUpIiF-LIAAAAC/youtube-logo.gif" alt="GIF"></img> -->
 * [Flutter Youtube Channel](https://youtube.com/c/flutterdev)
 * [Flutter Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-* 
+
 ## Blogs and Articles:
 <!-- <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img> -->
 
