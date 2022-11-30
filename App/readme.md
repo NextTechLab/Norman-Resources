@@ -21,6 +21,6 @@
 
 ## Roadmaps:
 <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img>
-* [Flutter](https://roadmap.sh/flutter)
+* [Flutter Developer](https://roadmap.sh/flutter)
 * [Android Developer](https://roadmap.sh/android)
 
