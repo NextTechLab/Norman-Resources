@@ -7,10 +7,10 @@
 
 <br>
 <p align="center">
-Learning materials, project ideas and much more
+Learning Materials, Project Ideas and Much More.
 </p>
 <p align="center">
-Created by <a href="">Next Tech Lab</a>.
+Created by <a href="">The Next Tech Lab</a>.
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.0-yellowgreen" alt="version 1.0.0"/>
@@ -27,7 +27,7 @@ Created by <a href="">Next Tech Lab</a>.
 ## Norman-Resources
 * [Web Development](https://github.com/NextTechLab/Norman-Resources/tree/main/Web)
 * [App Development](https://github.com/NextTechLab/Norman-Resources/tree/main/App)
-* [UIUX](https://github.com/NextTechLab/Norman-Resources/tree/main/Ui-Ux)
+* [UI/UX](https://github.com/NextTechLab/Norman-Resources/tree/main/Ui-Ux)
 
 ## License
 
