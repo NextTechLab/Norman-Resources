@@ -18,7 +18,6 @@
 <!-- <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img> -->
 
 ## Project Ideas:
-* Project Ideas:
 * Blog or online journal.
 * A Restaurant Menu.
 * A Chatbot.
