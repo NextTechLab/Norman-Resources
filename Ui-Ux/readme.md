@@ -31,6 +31,6 @@
 
 
 ## Roadmaps:
-<!-- <img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img> -->
+<img align="right" height="160px" src="https://media.tenor.com/y8BqGzWtqSAAAAAi/explore-map.gif" alt="GIF"></img>
 * [UI/UX Roadmap for beginners](https://bootcamp.uxdesign.cc/ui-ux-roadmap-for-beginners-6601d15027ca)
 * [UX Designer Roadmap](https://careerfoundry.com/en/blog/ux-design/how-to-become-a-ux-designer/)
