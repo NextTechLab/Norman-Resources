@@ -21,7 +21,7 @@ Created by <a href="">The Next Tech Lab</a>.
 ## The Next Tech Lab
 
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/91051053/204151550-71d5d080-024a-4737-8d36-d4bdb52c1425.png"></img>
+<img align="center" src="https://user-images.githubusercontent.com/91051053/212057254-738a3c5d-0c57-4437-8698-c76ef6a29047.png"></img>
 </p>
 
 ## Norman-Resources
